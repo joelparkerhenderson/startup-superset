@@ -67,8 +67,6 @@ TODO:
 * Queueing theory
 * Models
 * Domain-driven design (DDD)
-* Domain driven design (DDD) - building blocks
-* Domain driven design (DDD) - relationships to other ideas
 * Domain-specific language (DSL)
 * Strategy Markup Language
 * Financial products Markup Language (FpML)
@@ -87,8 +85,7 @@ TODO:
 * Outliers: 10,000 Hours of Practice
 * Outliers: in love with practice
 * Practice and feedback
-* Goal-directed practice coupled with targeted feedback - goal items
-* Goal-directed practice coupled with targeted feedback - feedback items
+* Goal-directed practice coupled with targeted feedback
 * Metrics
 * What is required for a product to succeed?
 * The Beginner’s Guide to Startup Analytics
@@ -106,10 +103,7 @@ TODO:
 * Do things that don't scale - by Paul Graham - excerpts
 * The Pocket Guide of Essential YC Advice
 * The Top 20 Reasons Startups Fail
-* Startup lessons: sales/marketing
-* Startup lessons: product/market
-* Startup lessons: people
-* Startup lessons: company
+* Startup lessons
 * Start with a compelling narrative - advice by Atrium.co
 * Vision statement & mission statement
 * Books to read
