@@ -61,6 +61,10 @@ Models:
 * [Domain-driven design (DDD)](doc/domain_driven_design.md)
 * [Domain-specific language (DSL)](doc/domain_specific_language.md)
 
+Management:
+
+* [Business intelligence](doc/business_intelligence.md)
+
 TODO:
 
 * Agile software development
