@@ -26,6 +26,11 @@ People:
 * [6 Guidelines for "Getting to Yes"](doc/6_guidelines_for_getting_to_yes.md)
 * [7 secrets to effective teamwork](doc/7_secrets_to_effective_teamwork.md)
 
+Strategy &amp; Tactics
+
+* [Strategic management](strategic_management.md)
+* [Strategic control](strategic_control.md)
+
 TODO:
 
 * Product/Market Fit
