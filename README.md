@@ -46,9 +46,13 @@ Market:
 * [Understand the small idea and the big idea](doc/understand_the_small_idea_and_the_big_idea.md)
 * [Market first, team second](doc/market_first_team_second.md)
 
+Product/Market Fit:
+
+* [Hunt for signals of open space](doc/hunt_for_signals_of_open_space.md)
+
+
 TODO:
 
-* Product/Market Fit
 * Product Development
 * Use case
 * Behavior-driven development
