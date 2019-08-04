@@ -78,8 +78,8 @@ Metrics:
 
 Investment:
 
-* [7 questions by Peter Thiel](doc/7_startup_questions_by_peter_thiel.md)
-
+* [7 startup questions by Peter Thiel](doc/7_startup_questions_by_peter_thiel.md)
+* [Investment readiness level](doc/investment_readiness_level.md)
 
 TODO:
 
