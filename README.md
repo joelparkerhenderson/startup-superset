@@ -22,6 +22,7 @@ People:
 * [Grit](grit.md)
 * [Effectuation](effectuation.md)
 * [Drucker teamwork exercise](drucker_teamwork_exercise.md)
+* [Crucial conversations](crucial_conversations.md)
 
 TODO:
 
