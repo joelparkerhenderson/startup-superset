@@ -84,6 +84,8 @@ Investment:
 Startup advice:
 
 * [Steve Blank startup advice](doc/steve_blank_startup_advice.md)
+* [Do things that don't scale - by Paul Graham - excerpts](do_things_that_dont_scale_by_paul_graham.md)
+
 
 TODO:
 
