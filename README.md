@@ -14,6 +14,7 @@ Ways of working:
 * [TEAM FOCUS: FOCUS is analytical](team_focus_focus_is_analytical.md)
 * [Ground rules](ground_rules.md)
 * [Lean coffee](lean_coffee.md)
+* [Agile chartering](agile_chartering.md)
 
 TODO:
 
