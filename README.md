@@ -46,15 +46,17 @@ Market:
 * [Understand the small idea and the big idea](doc/understand_the_small_idea_and_the_big_idea.md)
 * [Market first, team second](doc/market_first_team_second.md)
 
-Product/Market Fit:
+Product/market Fit:
 
 * [Hunt for signals of open space](doc/hunt_for_signals_of_open_space.md)
 * [Technology adoption life cycle](doc/technology_adoption_life_cycle.md)
 
+Product development:
+
+* [Use case](doc/use_case.md)
+
 TODO:
 
-* Product Development
-* Use case
 * Behavior-driven development
 * Agile software development
 * Software Engineering Method and Theory (SEMAT)
