@@ -15,6 +15,7 @@ Ways of working:
 * [Ground rules](ground_rules.md)
 * [Lean coffee](lean_coffee.md)
 * [Agile chartering](agile_chartering.md)
+* [The PRIMES](the_primes.md)
 
 TODO:
 
