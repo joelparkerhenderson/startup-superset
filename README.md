@@ -66,6 +66,10 @@ Management:
 * [Business intelligence](doc/business_intelligence.md)
 * [Six Sigma](doc/six_sigma.md)
 
+Practice:
+
+* [Outliers: 10,000 Hours of Practice](doc/outliers_10000_hours_of_practice.md)
+
 TODO:
 
 * Agile software development
