@@ -24,6 +24,7 @@ People:
 * [Drucker teamwork exercise](drucker_teamwork_exercise.md)
 * [Crucial conversations](crucial_conversations.md)
 * [6 Guidelines for "Getting to Yes"](6_guidelines_for_getting_to_yes.md)
+* [7 secrets to effective teamwork](7_secrets_to_effective_teamwork.md)
 
 TODO:
 
