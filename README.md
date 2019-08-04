@@ -90,13 +90,11 @@ TODO:
 * Project Management Body of Knowledge (PMBOK)
 * Functional requirements vs. non-functional requirements
 * Queueing theory
-* Models
 * Domain-specific language (DSL)
 * Strategy Markup Language
 * Financial products Markup Language (FpML)
 * Systems Modeling Language (SysML)
 * Ricardian contract (DSL markup language)
-* Management
 * Six Sigma methodologies: DMADV and DMAIC
 * Change management
 * Successful change management
