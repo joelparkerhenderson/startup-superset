@@ -69,6 +69,7 @@ Management:
 Practice:
 
 * [Outliers: 10,000 Hours of Practice](doc/outliers_10000_hours_of_practice.md)
+* [Practice and feedback](doc/practice_and_feedback.md)
 
 TODO:
 
@@ -92,10 +93,6 @@ TODO:
 * ADKAR change management model
 * Maturity model
 * Technology readiness level
-* Practice
-* Outliers: 10,000 Hours of Practice
-* Outliers: in love with practice
-* Practice and feedback
 * Goal-directed practice coupled with targeted feedback
 * Metrics
 * What is required for a product to succeed?
