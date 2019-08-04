@@ -13,6 +13,7 @@ Ways of working:
 * [TEAM FOCUS: TEAM is interpersonal](team_focus_team_is_interpersonal.md)
 * [TEAM FOCUS: FOCUS is analytical](team_focus_focus_is_analytical.md)
 * [Ground rules](ground_rules.md)
+* [Lean coffee](lean_coffee.md)
 
 TODO:
 
