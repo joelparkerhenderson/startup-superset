@@ -2,29 +2,29 @@
 
 Liftoff:
 
-* [Liftoff: origins, outcomes, outputs](liftoff_origins_outcomes_outputs.md)
-* [Liftoff commitment to success](liftoff_commitment_to_success.md)
-* [Liftoff schedule and agenda](liftoff_schedule_and_agenda.md)
-* [On-site arrangements](on_site_arrangements.md)
-* [Showcase of work in progress](showcase_of_work_in_progress.md)
+* [Liftoff: origins, outcomes, outputs](doc/liftoff_origins_outcomes_outputs.md)
+* [Liftoff commitment to success](doc/liftoff_commitment_to_success.md)
+* [Liftoff schedule and agenda](doc/liftoff_schedule_and_agenda.md)
+* [On-site arrangements](doc/on_site_arrangements.md)
+* [Showcase of work in progress](doc/showcase_of_work_in_progress.md)
 
 Ways of working:
 
-* [TEAM FOCUS: TEAM is interpersonal](team_focus_team_is_interpersonal.md)
-* [TEAM FOCUS: FOCUS is analytical](team_focus_focus_is_analytical.md)
-* [Ground rules](ground_rules.md)
-* [Lean coffee](lean_coffee.md)
-* [Agile chartering](agile_chartering.md)
-* [The PRIMES](the_primes.md)
+* [TEAM FOCUS: TEAM is interpersonal](doc/team_focus_team_is_interpersonal.md)
+* [TEAM FOCUS: FOCUS is analytical](doc/team_focus_focus_is_analytical.md)
+* [Ground rules](doc/ground_rules.md)
+* [Lean coffee](doc/lean_coffee.md)
+* [Agile chartering](doc/agile_chartering.md)
+* [The PRIMES](doc/the_primes.md)
 
 People:
 
-* [Grit](grit.md)
-* [Effectuation](effectuation.md)
-* [Drucker teamwork exercise](drucker_teamwork_exercise.md)
-* [Crucial conversations](crucial_conversations.md)
-* [6 Guidelines for "Getting to Yes"](6_guidelines_for_getting_to_yes.md)
-* [7 secrets to effective teamwork](7_secrets_to_effective_teamwork.md)
+* [Grit](doc/grit.md)
+* [Effectuation](doc/effectuation.md)
+* [Drucker teamwork exercise](doc/drucker_teamwork_exercise.md)
+* [Crucial conversations](doc/crucial_conversations.md)
+* [6 Guidelines for "Getting to Yes"](doc/6_guidelines_for_getting_to_yes.md)
+* [7 secrets to effective teamwork](doc/7_secrets_to_effective_teamwork.md)
 
 TODO:
 
