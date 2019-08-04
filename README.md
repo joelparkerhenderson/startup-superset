@@ -49,7 +49,7 @@ Market:
 Product/Market Fit:
 
 * [Hunt for signals of open space](doc/hunt_for_signals_of_open_space.md)
-
+* [Technology adoption life cycle](doc/technology_adoption_life_cycle.md)
 
 TODO:
 
