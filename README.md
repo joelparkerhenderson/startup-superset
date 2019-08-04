@@ -56,6 +56,11 @@ Product development:
 * [Use case](doc/use_case.md)
 * [Behavior-driven development](doc/behavior_driven_development.md)
 
+Models:
+
+* [Domain-driven design (DDD)](doc/domain_driven_design.md)
+* [Domain-specific language (DSL)](doc/domain_specific_language.md)
+
 TODO:
 
 * Agile software development
@@ -66,7 +71,6 @@ TODO:
 * Functional requirements vs. non-functional requirements
 * Queueing theory
 * Models
-* Domain-driven design (DDD)
 * Domain-specific language (DSL)
 * Strategy Markup Language
 * Financial products Markup Language (FpML)
