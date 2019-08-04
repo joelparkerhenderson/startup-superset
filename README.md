@@ -64,6 +64,7 @@ Models:
 Management:
 
 * [Business intelligence](doc/business_intelligence.md)
+* [Six Sigma](doc/six_sigma.md)
 
 TODO:
 
@@ -81,8 +82,6 @@ TODO:
 * Systems Modeling Language (SysML)
 * Ricardian contract (DSL markup language)
 * Management
-* Business intelligence
-* Six Sigma
 * Six Sigma methodologies: DMADV and DMAIC
 * Change management
 * Successful change management
