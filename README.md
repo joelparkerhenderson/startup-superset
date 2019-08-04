@@ -34,11 +34,17 @@ Strategy:
 Tactics:
 
 * [OODA loop: observe, orient, decide, act](doc/ooda_loop_observe_orient_decide_act.md)
+* [Intent plan](doc/intent_plan.md)
 
 Practices:
 
 * [Objectives and key results (OKR)](doc/objectives_and_key_results.md)
 * [Key performance indicator (KPI)](doc/key_performance_indicator.md)
+
+Market:
+
+* [Understand the small idea and the big idea](doc/understand_the_small_idea_and_the_big_idea.md)
+* [Market first, team second](doc/market_first_team_second.md)
 
 TODO:
 
