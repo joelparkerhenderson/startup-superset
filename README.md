@@ -74,6 +74,7 @@ Practice:
 Metrics:
 
 * [What is required for a product to succeed?](doc/what_is_required_for_a_product_to_succeed.md)
+* [The Beginner’s Guide to Startup Analytics](doc/the_beginners_guide_to_startup_analytics.md)
 
 TODO:
 
