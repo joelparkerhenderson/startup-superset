@@ -81,6 +81,10 @@ Investment:
 * [7 startup questions by Peter Thiel](doc/7_startup_questions_by_peter_thiel.md)
 * [Investment readiness level](doc/investment_readiness_level.md)
 
+Startup advice:
+
+* [Steve Blank startup advice](doc/steve_blank_startup_advice.md)
+
 TODO:
 
 * Agile software development
@@ -108,9 +112,6 @@ TODO:
 * Investors' comments on metrics
 * Startup Metrics by Andressen Horowitz
 * Pitch deck template by SixArm.com
-* Startup advice
-* Steve Blank startup advice
-* Do things that don't scale - by Paul Graham - excerpts
 * The Pocket Guide of Essential YC Advice
 * The Top 20 Reasons Startups Fail
 * Startup lessons
