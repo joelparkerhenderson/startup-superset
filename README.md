@@ -157,7 +157,35 @@ Books to read, in order of importance for immediate tactical usefulness.
 
 ## TODO
 
-TODO during the next phase:
+TODO next:
+
+* Aggregation theory
+* Agoge & The Gates of Fire
+* Asymmetric laws - by Floodgate
+* Balanced scorecard
+* Bold vision
+* Business model canvas
+* Commoditization of trust
+* Crazy and good
+* Crossing the Chasm
+* Customer development
+* Customer discovery questions
+* Disruptive technology shift
+* Five forces analysis
+* Key risk indicator (KRI)
+* Lean Customer Development
+* Lean startup
+* Minimum viable product
+* PESTLE analysis
+* Prospective chart
+* SMART criteria
+* Strategy map
+* SWOT analysis
+* System design laws
+* The Four Steps to the Epiphany 
+* The Innovators Dilemma + disruptive innovation
+
+TODO after:
 
 * Agile software development
 * Software Engineering Method and Theory (SEMAT)
