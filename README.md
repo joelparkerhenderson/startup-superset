@@ -17,6 +17,10 @@ Ways of working:
 * [Agile chartering](agile_chartering.md)
 * [The PRIMES](the_primes.md)
 
+People:
+
+* [Grit](grit.md)
+
 TODO:
 
 * Product/Market Fit
