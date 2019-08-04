@@ -26,10 +26,14 @@ People:
 * [6 Guidelines for "Getting to Yes"](doc/6_guidelines_for_getting_to_yes.md)
 * [7 secrets to effective teamwork](doc/7_secrets_to_effective_teamwork.md)
 
-Strategy &amp; Tactics
+Strategy
 
-* [Strategic management](strategic_management.md)
-* [Strategic control](strategic_control.md)
+* [Strategic management](doc/strategic_management.md)
+* [Strategic control](doc/strategic_control.md)
+
+Tactics
+
+* [OODA loop: observe, orient, decide, act](doc/ooda_loop_observe_orient_decide_act.md)
 
 TODO:
 
