@@ -71,6 +71,10 @@ Practice:
 * [Outliers: 10,000 Hours of Practice](doc/outliers_10000_hours_of_practice.md)
 * [Practice and feedback](doc/practice_and_feedback.md)
 
+Metrics:
+
+* [What is required for a product to succeed?](doc/what_is_required_for_a_product_to_succeed.md)
+
 TODO:
 
 * Agile software development
@@ -94,9 +98,6 @@ TODO:
 * Maturity model
 * Technology readiness level
 * Goal-directed practice coupled with targeted feedback
-* Metrics
-* What is required for a product to succeed?
-* The Beginner’s Guide to Startup Analytics
 * Startup Analytics Best Practices
 * Net Promoter Score (NPS)
 * Performance Metrics Every Early Stage Business Must Track
