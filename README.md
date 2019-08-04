@@ -20,6 +20,7 @@ Ways of working:
 People:
 
 * [Grit](grit.md)
+* [Effectuation](effectuation.md)
 
 TODO:
 
