@@ -38,6 +38,7 @@ Tactics:
 Practices:
 
 * [Objectives and key results (OKR)](doc/objectives_and_key_results.md)
+* [Key performance indicator (KPI)](doc/key_performance_indicator.md)
 
 TODO:
 
