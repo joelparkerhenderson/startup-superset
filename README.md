@@ -54,10 +54,10 @@ Product/market Fit:
 Product development:
 
 * [Use case](doc/use_case.md)
+* [Behavior-driven development](doc/behavior_driven_development.md)
 
 TODO:
 
-* Behavior-driven development
 * Agile software development
 * Software Engineering Method and Theory (SEMAT)
 * Continual improvement process
