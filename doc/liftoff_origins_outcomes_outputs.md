@@ -1,4 +1,4 @@
-# Liftoff: origins, outcomes, outputs
+# Liftoff origins, outcomes, outputs
 
 A liftoff is a team event that helps with starting a company or project, by gathering the teammates to define the intentions, approaches, and plans.
 

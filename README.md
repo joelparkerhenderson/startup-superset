@@ -6,7 +6,7 @@
 
 ### Liftoff
 
-* [Liftoff: origins, outcomes, outputs](doc/liftoff_origins_outcomes_outputs.md)
+* [Liftoff origins, outcomes, outputs](doc/liftoff_origins_outcomes_outputs.md)
 * [Liftoff commitment to success](doc/liftoff_commitment_to_success.md)
 * [Liftoff schedule and agenda](doc/liftoff_schedule_and_agenda.md)
 * [On-site arrangements](doc/on_site_arrangements.md)
