@@ -76,6 +76,11 @@ Metrics:
 * [What is required for a product to succeed?](doc/what_is_required_for_a_product_to_succeed.md)
 * [The Beginner’s Guide to Startup Analytics](doc/the_beginners_guide_to_startup_analytics.md)
 
+Investment:
+
+* [7 questions by Peter Thiel](doc/7_startup_questions_by_peter_thiel.md)
+
+
 TODO:
 
 * Agile software development
@@ -104,9 +109,6 @@ TODO:
 * Performance Metrics Every Early Stage Business Must Track
 * Investors' comments on metrics
 * Startup Metrics by Andressen Horowitz
-* Investment
-* Seven questions by Peter Thiel
-* Investment readiness level
 * Pitch deck template by SixArm.com
 * Startup advice
 * Steve Blank startup advice
