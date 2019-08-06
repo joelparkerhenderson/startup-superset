@@ -72,6 +72,7 @@
 
 * [Hunt for signals of open space](doc/hunt_for_signals_of_open_space.md)
 * [Technology adoption life cycle](doc/technology_adoption_life_cycle.md)
+* [Crossing the chasm](crossing_the_chasm.md)
 
 
 ### Product development
@@ -172,27 +173,21 @@ Books to read, in order of importance for immediate tactical usefulness.
 TODO next:
 
 * Aggregation theory
-* Agoge & The Gates of Fire
 * Asymmetric laws - by Floodgate
 * Balanced scorecard
 * Bold vision
 * Business model canvas
 * Commoditization of trust
 * Crazy and good
-* Crossing the Chasm
 * Customer development
 * Customer discovery questions
 * Disruptive technology shift
-* Five forces analysis
-* Key risk indicator (KRI)
 * Lean Customer Development
 * Lean startup
 * Minimum viable product
-* PESTLE analysis
 * Prospective chart
 * SMART criteria
 * Strategy map
-* SWOT analysis
 * System design laws
 * The Four Steps to the Epiphany 
 * The Innovators Dilemma + disruptive innovation
