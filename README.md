@@ -59,6 +59,7 @@
 ### Practices
 
 * [Objectives and key results (OKR)](doc/objectives_and_key_results.md)
+* [Objectives and key results (OKR) - templates by SixArm.com](objectives_and_key_results_templates_by_sixarm.md)
 * [Key performance indicator (KPI)](doc/key_performance_indicator.md)
 * [Key risk indicator (KRI)](doc/key_risk_indicator.md)
 
