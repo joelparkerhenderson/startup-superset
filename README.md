@@ -48,6 +48,7 @@
 
 ### Tactics
 
+* [Agoge and The Gates of Fire](doc/agoge_and_the_gates_of_fire.md)
 * [OODA loop: observe, orient, decide, act](doc/ooda_loop_observe_orient_decide_act.md)
 * [Intent plan](doc/intent_plan.md)
 
