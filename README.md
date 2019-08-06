@@ -107,10 +107,12 @@
 * [The Beginner’s Guide to Startup Analytics](doc/the_beginners_guide_to_startup_analytics.md)
 * [Startup analytics best practices](startup_analytics_best_practices.md)
 
+
 ### Investment
 
 * [7 startup questions by Peter Thiel](doc/7_startup_questions_by_peter_thiel.md)
 * [Investment readiness level](doc/investment_readiness_level.md)
+* [Pitch deck template by SixArm.com](doc/pitch_deck_template.md)
 
 
 ### Startup advice
