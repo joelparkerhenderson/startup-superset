@@ -65,6 +65,7 @@
 
 * [Understand the small idea and the big idea](doc/understand_the_small_idea_and_the_big_idea.md)
 * [Market first, team second](doc/market_first_team_second.md)
+* [Disruptive technology shift](doc/disruptive_technology_shift.md)
 
 
 ### Product/market Fit:
