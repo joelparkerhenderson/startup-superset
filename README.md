@@ -119,7 +119,7 @@
 ### Startup advice
 
 * [Steve Blank startup advice](doc/steve_blank_startup_advice.md)
-* [Do things that don't scale - by Paul Graham - excerpts](do_things_that_dont_scale_by_paul_graham.md)
+* [Do things that don't scale - by Paul Graham - excerpts](doc/do_things_that_dont_scale_by_paul_graham.md)
 * [Vision statement and mission statement](doc/vision_statement_and_mission_statement.md)
 
 
