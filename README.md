@@ -38,6 +38,9 @@
 * [Strategic management](doc/strategic_management.md)
 * [Strategic control](doc/strategic_control.md)
 
+### Strategy analysis
+
+* [SWOT analysis](doc/swot_analysis.md)
 
 ### Tactics
 
