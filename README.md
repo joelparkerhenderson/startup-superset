@@ -38,6 +38,7 @@
 * [Strategic management](doc/strategic_management.md)
 * [Strategic control](doc/strategic_control.md)
 * [Strategy map](doc/strategy_map.md)
+* [Balanced scorecard](doc/balanced_scorecard.md)
 
 
 ### Strategy analysis
