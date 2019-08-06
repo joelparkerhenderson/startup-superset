@@ -85,6 +85,7 @@
 ### Models
 
 * [Domain-driven design (DDD)](doc/domain_driven_design.md)
+* [Domain driven design (DDD) - relationships to other ideas](doc/domain_driven_design_relationships.md)
 * [Domain-specific language (DSL)](doc/domain_specific_language.md)
 
 
