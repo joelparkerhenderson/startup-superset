@@ -192,7 +192,6 @@ TODO next:
 * Minimum viable product
 * Prospective chart
 * SMART criteria
-* Strategy map
 * System design laws
 * The Four Steps to the Epiphany 
 * The Innovators Dilemma + disruptive innovation
@@ -217,8 +216,6 @@ TODO after:
 * ADKAR change management model
 * Maturity model
 * Technology readiness level
-* Goal-directed practice coupled with targeted feedback
-* Startup Analytics Best Practices
 * Net Promoter Score (NPS)
 * Performance Metrics Every Early Stage Business Must Track
 * Investors' comments on metrics
