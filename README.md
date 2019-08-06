@@ -38,10 +38,13 @@
 * [Strategic management](doc/strategic_management.md)
 * [Strategic control](doc/strategic_control.md)
 
-### Strategy analysis
+
+### Strategic analysis
 
 * [SWOT analysis: strengths, weaknesses, opportunities, threats](doc/swot_analysis.md)
 * [PESTLE analysis: political, economic, social, technological, legal, environmental](doc/pestle_analysis.md)
+* [Five forces analysis: entrants, substitutes, customers, suppliers, competitors](doc/five_forces_analysis.md)
+
 
 ### Tactics
 
@@ -107,6 +110,7 @@
 
 * [Steve Blank startup advice](doc/steve_blank_startup_advice.md)
 * [Do things that don't scale - by Paul Graham - excerpts](do_things_that_dont_scale_by_paul_graham.md)
+* [Vision statement and mission statement](doc/vision_statement_and_mission_statement.md)
 
 
 ## Books to read
