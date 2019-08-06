@@ -40,7 +40,7 @@
 * [Strategy map](doc/strategy_map.md)
 
 
-### Strategic analysis
+### Strategy analysis
 
 * [SWOT analysis: strengths, weaknesses, opportunities, threats](doc/swot_analysis.md)
 * [PESTLE analysis: political, economic, social, technological, legal, environmental](doc/pestle_analysis.md)
