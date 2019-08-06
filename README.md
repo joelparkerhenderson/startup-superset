@@ -99,6 +99,7 @@
 
 * [Outliers: 10,000 Hours of Practice](doc/outliers_10000_hours_of_practice.md)
 * [Practice and feedback](doc/practice_and_feedback.md)
+* [Goal-directed practice coupled with targeted feedback - goal items](doc/goal_directed_practice_and_goal_items.md)
 
 
 ### Metrics
