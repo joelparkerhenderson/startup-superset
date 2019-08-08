@@ -98,8 +98,8 @@
 
 ### Markup
 
-* [StratML: Strategy Markup Language](doc/stratml_strategy_markup_language.md)
-* [FpML: Financial products Markup Language](doc/fpml_financial_products_markup_language.md)
+* [Strategy Markup Language (StratML)](doc/strategy_markup_language.md)
+* [Financial products Markup Language (FpML)](doc/financial_products_markup_language.md)
 
 
 ### Management
