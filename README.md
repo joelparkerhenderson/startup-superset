@@ -89,11 +89,16 @@
 * [SEMAT: Software Engineering Method and Theory](doc/semat_software_engineering_method_and_theory.md)
 
 
-### Models
+### Modeling
 
 * [Domain-driven design (DDD)](doc/domain_driven_design.md)
 * [Domain driven design (DDD) - relationships to other ideas](doc/domain_driven_design_relationships.md)
 * [Domain-specific language (DSL)](doc/domain_specific_language.md)
+
+
+### Markup 
+
+* [StratML: Strategy Markup Language](stratml_strategy_markup_language.md)
 
 
 ### Management
