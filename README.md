@@ -86,6 +86,7 @@
 * [Use case](doc/use_case.md)
 * [Behavior-driven development](doc/behavior_driven_development.md)
 * [Agile software development](doc/agile_software_development.md)
+* [SEMAT: Software Engineering Method and Theory](doc/semat_software_engineering_method_and_theory.md)
 
 
 ### Models
