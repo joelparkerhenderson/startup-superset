@@ -96,9 +96,10 @@
 * [Domain-specific language (DSL)](doc/domain_specific_language.md)
 
 
-### Markup 
+### Markup
 
 * [StratML: Strategy Markup Language](stratml_strategy_markup_language.md)
+* [FpML: Financial products Markup Language](doc/fpml_financial_products_markup_language.md)
 
 
 ### Management
