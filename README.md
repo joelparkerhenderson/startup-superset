@@ -52,7 +52,8 @@
 
 * [Agoge and The Gates of Fire](doc/agoge_and_the_gates_of_fire.md)
 * [OODA loop: observe, orient, decide, act](doc/ooda_loop_observe_orient_decide_act.md)
-* [OODA loop: the strategic theory](ooda_loop_the_strategic_theory.md)
+* [OODA loop: the strategic theory](doc/ooda_loop_the_strategic_theory.md)
+* [EBFAS organizational climate](doc/ebfas_organizational_climate.md)
 * [Intent plan](doc/intent_plan.md)
 
 
