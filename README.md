@@ -77,8 +77,8 @@
 
 * [Hunt for signals of open space](doc/hunt_for_signals_of_open_space.md)
 * [Technology adoption life cycle](doc/technology_adoption_life_cycle.md)
-* [Crossing the chasm](crossing_the_chasm.md)
-* [Bold vision](bold_vision.md)
+* [Crossing the chasm](doc/crossing_the_chasm.md)
+* [Bold vision](doc/bold_vision.md)
 * [The Four Steps to the Epiphany](doc/the_four_steps_to_the_epiphany.md)
 
 
@@ -111,8 +111,8 @@
 
 * [Business intelligence](doc/business_intelligence.md)
 * [Six Sigma](doc/six_sigma.md)
-* [ADKAR change management model](adkar_change_management_model.md)
-* [Maturity model](maturity_model.md)
+* [ADKAR change management model](doc/adkar_change_management_model.md)
+* [Maturity model](doc/maturity_model.md)
 
 
 ### Practice makes perfect
@@ -127,8 +127,8 @@
 
 * [What is required for a product to succeed?](doc/what_is_required_for_a_product_to_succeed.md)
 * [The Beginner’s Guide to Startup Analytics](doc/the_beginners_guide_to_startup_analytics.md)
-* [Startup analytics best practices](startup_analytics_best_practices.md)
-* [Net Promoter Score (NPS)](net_promoter_score.md)
+* [Startup analytics best practices](doc/startup_analytics_best_practices.md)
+* [Net Promoter Score (NPS)](doc/net_promoter_score.md)
 
 
 ### Investment
@@ -143,7 +143,7 @@
 
 * [Steve Blank startup advice](doc/steve_blank_startup_advice.md)
 * [Do things that don't scale - by Paul Graham - excerpts](doc/do_things_that_dont_scale_by_paul_graham.md)
-* [The Pocket Guide of Essential YC Advice](the_pocket_guide_of_essential_yc_advice.md)
+* [The Pocket Guide of Essential YC Advice](doc/the_pocket_guide_of_essential_yc_advice.md)
 
 
 ## Books to read
