@@ -121,6 +121,7 @@
 * [Outliers: in love with practice](doc/outliers_in_love_with_practice.md)
 * [Practice and feedback](doc/practice_and_feedback.md)
 * [Goal-directed practice coupled with targeted feedback - goal items](doc/goal_directed_practice_and_goal_items.md)
+* [Goal-directed practice coupled with targeted feedback - feedback items](doc/goal_directed_practice_and_feedback_items.md)
 
 
 ### Metrics
