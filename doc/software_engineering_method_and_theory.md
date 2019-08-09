@@ -1,6 +1,6 @@
-# SEMAT: Software Engineering Method and Theory
+# Software Engineering Method and Theory (SEMAT)
 
-SEMAT (Software Engineering Method and Theory) is an initiative to reshape software engineering such that software engineering qualifies as a rigorous discipline.
+Software Engineering Method and Theory (SEMAT) is an initiative to reshape software engineering such that software engineering qualifies as a rigorous discipline.
 
   * Practice area: a common ground including the essence of software engineering
 
