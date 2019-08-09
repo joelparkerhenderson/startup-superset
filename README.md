@@ -115,7 +115,7 @@
 * [Maturity model](maturity_model.md)
 
 
-### Practice
+### Improvement
 
 * [Outliers: 10,000 Hours of Practice](doc/outliers_10000_hours_of_practice.md)
 * [Practice and feedback](doc/practice_and_feedback.md)
