@@ -115,9 +115,10 @@
 * [Maturity model](maturity_model.md)
 
 
-### Improvement
+### Practice makes perfect
 
 * [Outliers: 10,000 Hours of Practice](doc/outliers_10000_hours_of_practice.md)
+* [Outliers: in love with practice](doc/outliers_in_love_with_practice.md)
 * [Practice and feedback](doc/practice_and_feedback.md)
 * [Goal-directed practice coupled with targeted feedback - goal items](doc/goal_directed_practice_and_goal_items.md)
 
