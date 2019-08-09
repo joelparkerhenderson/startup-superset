@@ -135,6 +135,7 @@
 * [7 startup questions by Peter Thiel](doc/7_startup_questions_by_peter_thiel.md)
 * [Investment readiness level](doc/investment_readiness_level.md)
 * [Pitch deck template by SixArm.com](doc/pitch_deck_template.md)
+* [Start with a compelling narrative - advice by Atrium.co](doc/start_with_a_compelling_narrative.md)
 
 
 ### Startup advice
