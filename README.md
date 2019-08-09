@@ -94,12 +94,15 @@
 * [Domain-driven design (DDD)](doc/domain_driven_design.md)
 * [Domain-driven design (DDD) - relationships to other ideas](doc/domain_driven_design_relationships.md)
 * [Domain-specific language (DSL)](doc/domain_specific_language.md)
+* [Unified Modeling Language (UML) - TODO](.)
+* [Systems Modeling Language (SysML)](doc/systems_modeling_language.md)
 
 
 ### Modeling markup languages
 
+* [Hypertext Markup Language (HTML)  - TODO](.)
+* [Extensible markup language (XML) - TODO](.)
 * [Strategy Markup Language (StratML)](doc/strategy_markup_language.md)
-* [Systems Modeling Language (SysML)](doc/systems_modeling_language.md)
 * [Financial products Markup Language (FpML)](doc/financial_products_markup_language.md)
 
 
