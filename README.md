@@ -140,6 +140,7 @@
 
 * [Steve Blank startup advice](doc/steve_blank_startup_advice.md)
 * [Do things that don't scale - by Paul Graham - excerpts](doc/do_things_that_dont_scale_by_paul_graham.md)
+* [The Pocket Guide of Essential YC Advice](the_pocket_guide_of_essential_yc_advice.md)
 * [Vision statement and mission statement](doc/vision_statement_and_mission_statement.md)
 
 
