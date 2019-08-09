@@ -96,9 +96,10 @@
 * [Domain-specific language (DSL)](doc/domain_specific_language.md)
 
 
-### Modelling markup languages
+### Modeling markup languages
 
 * [Strategy Markup Language (StratML)](doc/strategy_markup_language.md)
+* [Systems Modeling Language (SysML)](doc/systems_modeling_language.md)
 * [Financial products Markup Language (FpML)](doc/financial_products_markup_language.md)
 
 
