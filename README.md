@@ -106,6 +106,7 @@
 
 * [Business intelligence](doc/business_intelligence.md)
 * [Six Sigma](doc/six_sigma.md)
+* [ADKAR change management model](adkar_change_management_model.md)
 
 
 ### Practice
