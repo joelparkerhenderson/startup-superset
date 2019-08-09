@@ -99,7 +99,7 @@
 * [Systems Modeling Language (SysML)](doc/systems_modeling_language.md)
 
 
-### Modeling markup languages
+### Markup
 
 * [Hypertext Markup Language (HTML)  - TODO](.)
 * [Extensible markup language (XML) - TODO](.)
