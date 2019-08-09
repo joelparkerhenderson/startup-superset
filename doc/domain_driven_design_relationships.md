@@ -1,4 +1,4 @@
-# Domain driven design (DDD) - relationships to other ideas
+# Domain-driven design (DDD) - relationships to other ideas
 
 **Object-oriented analysis and design**: In theory the general idea of DDD need not be restricted to object-oriented approaches, in practice DDD seeks to exploit the advantages that object-oriented techniques make possible. These include entities/aggregate roots as receivers of commands/method invocations and the encapsulation of state within foremost aggregate roots and on a higher architectural level, bounded contexts.
 
