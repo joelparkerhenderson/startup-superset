@@ -145,8 +145,8 @@
 * [Steve Blank startup advice](doc/steve_blank_startup_advice.md)
 * [Do things that don't scale - by Paul Graham - excerpts](doc/do_things_that_dont_scale_by_paul_graham.md)
 * [The Pocket Guide of Essential YC Advice](doc/the_pocket_guide_of_essential_yc_advice.md)
+* [How to succeed with a startup - By Sam Altman](doc/how_to_succeed_with_a_startup_by_sam_altman.md)
 * [The Top 20 Reasons Startups Fail](doc/the_top_20_reasons_startups_fail.md)
-
 
 ## Books to read
 
