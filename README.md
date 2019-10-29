@@ -138,7 +138,7 @@
 * [Investment readiness level](doc/investment_readiness_level.md)
 * [Pitch deck template by SixArm.com](doc/pitch_deck_template.md)
 * [Start with a compelling narrative - advice by Atrium.co](doc/start_with_a_compelling_narrative.md)
-
+* [16 Non-Obvious Fundraising Lessons On Pitching - By NfX](doc/16_non_obvious_fundraising_lessons_on_pitching.md)
 
 ### Startup advice
 
