@@ -90,7 +90,6 @@ aggregation_theory
 
 TODO
 
-the_four_steps_to_the_epiphany.md
 the_four_steps_to_the_epiphany_customer_development.md
 customer_development.md
 customer_development_manifesto.md
@@ -108,68 +107,6 @@ the_innovators_dilemma_disruptive_innovation.md
 # Product Development
 
 The rest of this page is intentionally blank.
-
-\newpage
-
-
-
-\newpage 
-
-
-# Software Engineering Method and Theory (SEMAT)
-
-SEMAT (Software Engineering Method and Theory) is an initiative to reshape software engineering such that software engineering qualifies as a rigorous discipline.
-
-  * Practice area: a common ground including the essence of software engineering
-
-  * Education area: training for developers, academics, students, etc.
-
-  * Theory area: a general theory of software engineering with significant benefits.
-
-  * Community area: works with setting up legal entities, creating websites, and community growth. 
-
-
-## SEMAT Essence kernel
-
-The SEMAT Essence kernel includes “things we always have and always do” when developing software. 
-
-  * Create common ground for discussion, improvement, comparison, and sharing.
-
-  * Build extensible practice libraries that can evolve over time.
-
-  * Clearly assess team progress: where they are, what to do next, and where to improve.
-
-  * Understand the health and progress of any software endeavors regardless of the methodology.
-
-  * Meet compliance requirements as practices and methods are now transparent and work together.
-
-
-## SEMAT Alpha states
-
-SEMAT Alpha states enable teams to measure the progress and health of their endeavors in a practice- or method-independent way. At any moment the team can identify where it is now and where it is going next. It makes the team results-focused instead of documentdriven or activity-centric. 
-
-**Customer layer:**
-
-Opportunity: Identified → Solution Needed → Value Established → Viable → Addressed → Benefit
-
-Stakeholder: Recognized → Represented → Involved → In Agreement → OK to Deploy → OK in Use
-
-**Solution layer:**
-
-Requirements: Conceived → Bounded → Coherent → Acceptable → Addressed → Fulfilled
-
-Software System: Architected → Demonstrable → Useable → Ready → Operational → Retired
-
-**Endeavor layer:**
-
-Team: Seeded → Formed → Collaborating → Performing → Adjourned
-
-Work: Initatied → Prepared → Started → Under Control → Concluded → Closed
-
-Way of Working: Principles → Foundation → In Use → In Place → Working Well → Retired
-
-
-\newpage
 
 
 # Continual improvement process
@@ -434,95 +371,12 @@ The rest of this page is intentionally blank.
 
 
 
-# Strategy Markup Language
+\newpage
 
-Strategy Markup Language (StratML) is an XML-based standard vocabulary and schema for the information commonly contained in strategic and performance plans and reports. 
-
-Parts:
-
-  * StratML Part 1 specifies the elements of strategic plans, including: mission, vision, values, goals, objectives, and stakeholders. 
-
-  * StratML Part 2 extends Part 1 to include the additional elements required for performance plans and reports, including stakeholder roles and performance indicators.
-
-The vision of the StratML standard is: "A worldwide web of intentions, stakeholders, and results." Its more explicit purposes include enabling strategic alignment through literal linkages between performance objectives and the business records supporting them. 
-
-Although the initial focus has been on the plans and reports that U.S. federal agencies are required to compile and maintain under the Government Performance and Results Act (GPRA), the standard has been specified generically so as to be applicable not only to all organizations, worldwide, but also to individuals who choose to lead mission/goal-directed lives.
-
-The United States GPRA Modernization Act (GPRAMA) requires U.S. federal agencies to publish their strategic and performance plans and reports in machine-readable format. StratML is such a format.
 
 
 \newpage
 
-
-# Financial products Markup Language (FpML)
-
-Financial products Markup Language (FpML) is a business information exchange standard based on Extensible Markup Language (XML) that enables business-to-business over-the-counter (OTC) financial derivative transactions online by following W3C standards.
-
-FpML is freely available with an open-source license. The FpML standard is managed by International Swaps and Derivatives Association (ISDA) on behalf of a community of investment banks that make up the OTC derivatives industry. All categories of privately negotiated derivatives will eventually be included within the standard.
-
-FpML is distinct from similar financial standards such as SWIFT and FIX in scope because it provides no network or specification of a transport mechanism.
-
-Major users of FpML include Bank of America, Barclays Capital, Bloomberg, Citibank, Credit Suisse, Deutsche Bank, Goldman Sachs, IBM, JPMorgan Chase, etc.
-
-
-## Scope
-
-The core scope includes the products of Foreign Exchange (FX) Swaps and Options, Interest Rate Swaps, Inflation Swaps, Asset Swaps, Swaptions, Credit Default Swaps, Credit Default Swap Indices, Credit Default Swap Baskets, Tranches on Credit Default Swap Indices, Equity Options, Equity Swaps, Total Return Swaps, and many others. 
-
-
-## Processes
-
-The core processes include trading, valuation, confirmation, novations, increases, amendments, terminations, allocations, position reporting, cash flow matching, a formal definition of party roles, as well as trade notification between asset managers and custodians.
-
-
-## History
-
-The FpML standard was first published by JPMorgan and PricewaterhouseCoopers on 9 June 1999 in a paper titled "Introducing FpML: A New Standard for E-commerce". As a result, the FpML standards committee was founded.
-
-The FpML community is currently working on versions 5.8.
-
-\newpage
-
-
-# Systems Modeling Language (SysML)
-
-The Systems Modeling Language (SysML) is a general-purpose modeling language for systems engineering applications. It supports the specification, analysis, design, verification and validation of a broad range of systems and systems-of-systems.
-
-
-## Diagrams
-
-SysML includes 9 types of diagram, some of which are taken from UML.
-
-  * Block definition diagram
-
-  * Internal block diagram
-
-  * Package diagram
-
-  * Use case diagram
-
-  * Requirement diagram
-
-  * Activity diagram
-
-  * Sequence diagram
-
-  * State machine diagram
-
-  * Parametric diagram  
-
-
-## SysML vs. UML
-
-SysML offers systems engineers several noteworthy improvements over UML, which tends to be software-centric. These improvements include the following:[2]
-
-  * SysML's semantics are more flexible and expressive. SysML reduces UML's software-centric restrictions and adds two new diagram types, requirement and parametric diagrams. The former can be used for requirements engineering; the latter can be used for performance analysis and quantitative analysis. Consequent to these enhancements, SysML is able to model a wide range of systems, which may include hardware, software, information, processes, personnel, and facilities.
-
-  * SysML is a comparatively little language that is easier to learn and apply.[3] Since SysML removes many of UML's software-centric constructs, the overall language measures smaller both in diagram types and total constructs.
-
-  * SysML allocation tables support common kinds of allocations. Whereas UML provides only limited support for tabular notations, SysML furnishes flexible allocation tables that support requirements allocation, functional allocation, and structural allocation. This capability facilitates automated verification and validation (V&V) and gap analysis.
-
-  * SysML model management constructs support models, views, and viewpoints. These constructs extend UML's capabilities and are architecturally aligned with IEEE-Std-1471-2000 (IEEE Recommended Practice for Architectural Description of Software Intensive Systems).
 
 
 \newpage
@@ -695,109 +549,6 @@ Monitoring implementation and fine-tuning as and when required,
 \newpage
 
 
-# ADKAR change management model
-
-
-## Awareness
-
-Is the person aware of the change?
-
-  * **Try messaging**: such as announcements, timelines, etc.
-
-  * **Ask**: what is happening with this change?
-
-
-## Desire
-
-Does the person want the change?
-
-  * **Try motivating**: such as one-on-one meetings, team goal settings, etc.
-
-  * **Ask**: why do I want this change?
-
-
-## Knowledge
-
-Does the person know how to make the change?
-
-  * **Try training**: such as staff seminars, employee education, etc.
-
-  * **Ask**: what do I need to know to help with this change?
-
-
-## Ability
-
-Can the person help effect the change?
-
-  * **Try practicing**: such as sandboxing, pairing, coaching, etc.
-
-  * **Ask**: how can I prove I can do this change?
-
-
-## Reinforcement
-
-Can the person continue with the change?
-
-  * **Try sustaining**: such as follow ups, reinforcement learning, etc.
-
-  * **Ask**: after the change happens, am I still successful?
-
-
-\newpage
-
-
-# Maturity model
-
-A maturity model is a business tool used to assess people/culture, processes/structures, and objects/technology.
-
-Maturity model levels are typically a series of steps of sophistication such as:
-
-  * Level 0: None, Never, Negligible, Not Applicable.
-
-  * Level 1: Initiate, Investigate, Implicit, Individual-oriented, Informal-usage.
-
-  * Level 2: Develop, Describe, Duplicate, Direct-oriented, Department-usage.
-
-  * Level 3: Standardize, Specify, Scale, Service-oriented, Segment-usage
-
-  * Level 4: Manage, Measure, Mainstream, Mission-oriented, Mass-usage.
-
-  * Level 5: Orchestrate, Optimize, Ongoing, Opportunity-oriented, Organization-usage
-
-General maturity models:
-
-  * [U.S. N.I.H. Proficiency Scale](https://github.com/joelparkerhenderson/maturity_models/examples/skill/us_nih_proficiency_scale.md)
-
-  * [Dreyfus model of skill acquisition](https://github.com/joelparkerhenderson/examples/skill/dreyfus_model_of_skill_acquisition.md)
-
-  * [Enterprise Architecture: TOGAF Maturity Model](https://github.com/joelparkerhenderson/examples/software/enterprise_architecture/togaf_maturity_model.md)
-
-  * [IT Capability Maturity Framework by the Innovation Value Institute (IVI)](https://github.com/joelparkerhenderson/examples/it/it_capability_maturity_framework_by_innovation_value_institute.md)
-
-  * [Enterprise Information Management Maturity Model by Gartner](https://github.com/joelparkerhenderson/examples/eim/Gartner_EIM_Maturity_Model.md)
-
-  * [Agile Maturity Model by ThoughtWorks](https://github.com/joelparkerhenderson/examples/agile/agile_maturity_model_by_thoughtworks.md)
-
-P3M3® describes process perspectives that can be assessed at all maturity model levels:
-
-  * Control Management: how well the organization maintains control of the initiatives currently ‘in flight’.
-
-  * Benefits Management: how well the organization defines, tracks and ensures achievement of performance improvement from the investment.
-
-  * Financial Management: how well the organization manages and controls the investment through business cases and budgetary control.
-
-  * Stakeholder Management: how well the initiatives engage with and communicate with the external environment to minimize the negative implications engagement can achieve.
-
-  * Organizational Governance: how well the organization controls the initiation and alignment of its investments with the corporate strategy.
-
-  * Risk Management: how well the organization focuses on and mitigates the impact of threats and the leveraging of opportunities.
-
-  * Resource Management: how well the organization develops its own talent and utilizes the opportunities from the supply chain to overcome peaks and troughs.
-
-
-\newpage
-
-
 # Technology readiness level
 
 Technology readiness levels (TRL) are a method of estimating technology maturity. They are determined during a Technology Readiness Assessment (TRA) that examines program concepts, technology requirements, and demonstrated technology capabilities. 
@@ -850,121 +601,6 @@ For complex technologies that incorporate various development stages, a more det
 \newpage
 
 
-# Practice
-
-This page intentionally blank.
-
-\newpage
-
-
-
-
-\newpage
-
-
-# Outliers: in love with practice
-
-([Source](http://wisdomgroup.com/blog/10000-hours-of-practice/))
-
-
-## Falling in Love With Practice
-
-The elite don’t just work harder than everybody else; the elites fall in love with practice.
-
-The elite software developer is the programmer who spends all day pounding code at work, and after leaving work she writes open source software on her own time.
-
-The elite football player is the guy who spends all day on the practice field with his teammates, and after practice he goes home to watch game films.
-
-The elite physician listens to medical podcasts in the car during a long commute, and travels to training conferences on the weekends.
-
-The elites are in love with what they do, and at some point it no longer feels like work.
-
-
-## What’s Next?
-
-Now that we’ve reviewed the trends uncovered by Outliers, what can we do about it? All of us want to be great at something. Now that we know how other achievers have gotten there, what can we do to join their ranks?
-
-One approach: We could choose a field and practice for 10,000 hours. If we are currently working in our target profession, forty hours per week over five years would give us ten thousand hours.
-
-Or… We can look at the question in reverse. Where have we already logged 10,000 hours of practice? What is it that we do really well? What tasks do we perform so well that people ask: How did you do that? Sometimes when we fall in love with practice we don’t even recognize it!
-
-Practice plays a major role in success. If you’re running a company, how do you create an environment that gives everyone on your team the opportunity to practice?
-
-\newpage
-
-
-# Goal-directed practice coupled with targeted feedback - goal items
-
-All practice is not equal. “Practice” is defined as any activity in which people engage their knowledge or skills. “Feedback” is information given to people about their performance that guides future behavior. However, the full potential of practice and feedback is not realized unless the two are combined. Practice produces observed performance that, in turn, allows tor targeted feedback, and then the feedback guides further practice. Goals can direct the nature of focused practice, provide the basis for evaluating observed performance, and shape the targeted feedback that guides future efforts.
-
-Learning and performance are best fostered when people engage in practice that (a) focuses on a specific goal or criterion on performance, (b) targets an appropriate level of challenge relative to current performance, and (c) is of sufficient quantity and frequency to meet the performance criteria.
-
-The amount of time someone spends in deliberate practice is what predicts continued learning in a given field, rather than time spent in generic practice. Goals provide people with a focus for their learning, which leads to more time and energy going to that area of focus. 
-
-When people do not clearly articulate their goals, it is difficult to know what (or how) to practice. Giving people the goal of “understanding a key concept” tells rather little about the nature or level of understanding. In contrast, the goal of “recognizing when a key concept is at issue” or “explaining the key concept to a particular” or “applying the key concept to solve problems” are more concrete and directive. Clearly specified performance criteria can help direct people’s practice and their learning. 
-
-Even if people have engaged in high-quality practice, they still need a sufficient quantity of practice [referred to as time on task] for the benefits to accumulate. People underestimate the need for practice. People often assume that when they can perform a task on one occasion in one context, their knowledge is secure when, in fact, it is much more difficult.
-
-Goal directed practice must be coordinated with targeted feedback in order to promote the greatest learning gains. Effective feedback provides information about a learner’s current state of knowledge and performance that can guide him or her in working toward the learning goal. Effective feedback can tell people what they are or are not understanding, where their performance is going well or poorly, and how they should direct their subsequent efforts. 
-
-Research points to two features of feedback that make people's learning more effective and efficient: content and timing. First, feedback should communicate to people where they are relative to the stated goal and what they need to do to improve. Second, feedback should provide this information when people can make the most use of it, based on the learning goals and structure of activities.
-
-
-Strategies address the need for goal-directed practice:
-
-* Conduct a prior knowledge assessment to target an appropriate challenge level
-
-* Be more explicit about your goals
-
-* Use a rubric to specify and communicate performance criteria
-
-* Build in multiple opportunities for practice
-
-* Set expectations about practice
-
-* Give examples or models of target performance
-
-* Refine your goals and performance criteria as the course progresses
-
-
-\newpage
-
-
-# Goal-directed practice coupled with targeted feedback - feedback items
-
-Feedback is most effective when it explicitly communicates about a specific aspect of performance relative to specific target criteria, and when it provides information that helps people progress toward meeting those criteria. Feedback which informs subsequent learning is often called formative feedback. In contrast, summative feedback is that which gives a final judgment or evaluation of proficiency, such as grades or scores. 
-
-Effective feedback involves giving students a clear picture of how their current knowledge or performance differs from the goal and providing information on adjustments that can help learners adjust to reach the goal.  Although grades and scores provide some information on the degree to which students’ performance has met the criteria, they do not explain which aspects did or did not meet the criteria and how. 
-
-Feedback that is specific to the processes learners are engaging in has been associated with deeper learning. Too much feedback tends to overwhelm learners, and fails to communicate which aspects of their performance deviates most from the goal, and where they should focus their future efforts.  
-
-Targeted feedback gives learners prioritized information about how their performance does or does not meet the criteria so they can understand how to improve their future performance. The full benefits of feedback can only be realized when the feedback adequately directs learners subsequent practices and when learners have the capacity to incorporate that feedback into further practice.
-
-Consider the appropriate timing of feedback. This involves both how soon feedback is given (typically, earlier is better) as well as how often (typically, more frequently is better).   Generally, more frequent feedback leads to more efficient learning because it helps learners stay on track and address their errors before they become entrenched. 
-
-The feedback must (1) focus learners on the key knowledge and skills you want then to learn, (2) be provided at a time and frequency when learners will be most likely to use it, and (3) be linked to additional opportunities for learners.  Each of these aspects of feedback must align with the goals you have set for learning.  
-
-Feedback should not undermine learners’ progress in becoming independent, self-regulated learners. Giving too little detail in feedback can leave learners unclear on what they need to do to improve, whereas giving too much detail can overwhelm them or mislead them as to what aspects are higher priority. Similarly, giving feedback too infrequently can leave learners floundering. 
-
-Strategies Addressing the Need for Targeted Feedback:
-
-* Look for patterns of errors 
-
-* Balance strength and weakness in your feedback
-
-* Design frequent opportunities to give feedback
-
-* Provide feedback at the group level
-
-* Provide real-time feedback at the group level
-
-* Incorporate peer feedback
-
-* Require learner to specify how they used feedback in subsequent work
-
-
-\newpage
-
 # Metrics
 
 This page intentionally blank.
@@ -975,28 +611,6 @@ This page intentionally blank.
 
 \newpage
 
-
-# Net Promoter Score (NPS)
-
-Net Promoter or Net Promoter Score (NPS) is a management tool that can be used to gauge the loyalty of a firm's customer relationships. 
-
-NPS serves as an alternative to traditional customer satisfaction research and is claimed to be correlated with revenue growth. NPS has been widely adopted with more than two thirds of Fortune 1000 companies using the metric.
-
-An NPS can be as low as −100 (every respondent is a "detractor") or as high as +100 (every respondent is a "promoter"). NPS scores vary across different industries, but a positive NPS (i.e., one that is higher than zero) is generally deemed good, a NPS of +50 is generally deemed excellent, and anything over +70 is exceptional.[3]
-
-The Net Promoter Score is calculated based on responses to a single question: How likely is it that you would recommend our company/product/service to a friend or colleague? 
-
-The scoring for this answer is most often based on a 0 to 10 scale:
-
-  * Responses of 9 to 10 are called Promoters, and are considered likely to exhibit value-creating behaviors, such as buying more, remaining customers for longer, and making more positive referrals to other potential customers.
-
-  * Responses of 0 to 6 are labeled Detractors, and they are believed to be less likely to exhibit the value-creating behaviors. 
-
-  * Responses of 7 to 8 are labeled Passives, and their behavior falls between Promoters and Detractors.
-
-The Net Promoter Score is calculated by subtracting the percentage of customers who are Detractors from the percentage of customers who are Promoters. For purposes of calculating a Net Promoter Score, Passives count toward the total number of respondents, thus decreasing the percentage of detractors and promoters and pushing the net score toward 0.
-
-Companies are encouraged to follow the likely-to-recommend question with an open-ended request for elaboration, soliciting the reasons for a customer's rating of that company or product. These reasons can then be provided to front-line employees and management teams for follow-up action.
 
 
 \newpage
@@ -1141,114 +755,10 @@ The first thing I do is look at the first 10 people the founders bring on. What 
 
 This page intentionally blank.
 
-\newpage
-
-
-
-
-
-
-
-\newpage
 
 # Startup advice
 
 This page intentionally blank
-
-\newpage
-
-
-
-# The Pocket Guide of Essential YC Advice
-
-* Launch now
-
-* Build something people want
-
-* Do things that don’t scale
-
-* Find the 90 / 10 solution
-
-* Find 10-100 customers who love your product
-
-* All startups are badly broken at some point
-
-* Write code – talk to users
-
-* “It’s not your money”
-
-* Growth is the result of a great product not the precursor
-
-* Don’t scale your team/product until you have built something people want
-
-* Valuation is not equal to success or even probability of success
-
-* Avoid long negotiated deals with big customers if you can
-
-* Avoid big company corporate development queries – they will only waste time
-
-* Avoid conferences unless they are the best way to get customers
-
-* Pre-product market fit – do things that don’t scale: remain small/nimble
-
-* Startups can only solve one problem well at any given time
-
-* Founder relationships matter more than you think
-
-* Sometimes you need to fire your customers (they might be killing you)
-
-* Ignore your competitors, you will more likely die of suicide than murder
-
-* Most companies don’t die because they run out of money
-
-* Be nice! Or at least don’t be a jerk
-
-* Get sleep and exercise – take care of yourself
-
-
-\newpage
-
-# The Top 20 Reasons Startups Fail
-
-[Source](https://www.cbinsights.com/research/startup-failure-reasons-top/)
-
-We break down the top reasons for startup failure by analyzing startup failure post-mortems. Many startups offered multiple reasons for their failure, so you’ll see the list below exceeds 100%.
-
-* No market need: 42%
-
-* Ran out of cash: 29%
-
-* Not the right team: 23%
-
-* Got outcompeted: 19%
-
-* Pricing/cost issues: 18%
-
-* User unfriendly product: 17%
-
-* Product without a business model: 17%
-
-* Poor marketing: 14%
-
-* Ignored customers: 14%
-
-* Product mistimed: 13%
-
-
-## Quotes
-
-No market need: “Startups fail when they are not solving a market problem. We were not solving a large enough problem that we could universally serve with a scalable solution. We had great technology, great data on shopping behavior, great reputation as a though leader, great expertise, great advisors, etc, but what we didn’t have was anything that solved a pain point in a scalable way.”
-
-Ran out of cash: “What eventually killed us was that we weren't able to raise additional funding. Despite multiple approaches and incarnations in pursuit of the ever elusive product/market fit and monetization, we eventually ran out of money and runway.”
-
-Got outcompeted: “It was easier to have a good experience with our competitor, and that good experience came far more quickly. We had great, rational reasons to pursue what we pursued, but none of that matters if the product is harder to use.”
-
-Not the right team: “The founding team couldn’t build an MVP on its own. That was a mistake. If the founding team can’t put out product on its own … they shouldn’t be founding a startup. We could have brought on additional co-founders, who would have been compensated primarily with equity versus cash, but we didn’t.”
-
-Product without a business model: “Although we achieved a lot, we failed to create a scalable business … We didn’t scale because we were single channel dependent and that channel shifted on us radically and suddenly.”
-
-
-\newpage
 
 
 # Startup lessons: sales/marketing
@@ -1416,56 +926,6 @@ Make most decisions by consensus. Have a CEO whose decisions are final. Make it 
 Don’t waste time picking office buildings, accountants, bookkeepers, janitors, furniture, hosted tools, payroll companies, etc. Make sure it’s good enough and move on.
 
 Take the time to find a good, inexpensive lawyer. It will make a difference.
-
-
-\newpage
-
-
-# Start with a compelling narrative - advice by Atrium.co
-
-Getting the right narrative is the most important part of the pitch process So make sure you spend a lot of time perfecting. Investors invest in (and employees join, and journalists write about) compelling stories. 
-
-## Use this narrative arc
-
-Step 1. The world is a certain way
-
-  * Outline your background and the current state of the market
-
-  * How you were introduced to the problem, and why you are an expert
-
-  * The order of magnitude of the problem today (it should be big!)
-
-Step 2. Something changes
-
-  * Your solution to the problem
-
-  * Why now is the ideal time for it
-
-Step 3. The world is now different
-
-  * How your solution is changing the world
-
-  * Product traction (especially metrics / milestone focused traction)
-
-  * The future opportunity (or why your traction will continue and make you big!)
-
-
-## How do you know your narrative is good?
-
-  * If you have a powerful narrative you should be able to have a conversation with someone who is a novice at your industry and guide them through it, and at the end they should think your company is amazing and probably going to be very successful.
-
-  * To refine my narrative I often do exactly this (it doesn’t have to be with potential investors) and use it to iterate the story I am telling (adding or removing specific facts, changing ordering, etc).
-
-
-## Narrative tactics
-
-  * Your narrative must be concise and accessible. 
-
-  * Leave out anything that doesn’t powerfully support one of your points.
-
-  * Many (or most) of the investors you talk to will be less knowledgeable about your industry than you are, so you will have to explain things simply. Do this with real world examples of the what happens without your product, and what happens with your product.
-
-  * Pitch the biggest vision that you actually believe in. VCs are trying to find multibillion dollar companies.
 
 
 \newpage

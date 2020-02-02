@@ -132,11 +132,12 @@
 * [Net Promoter Score (NPS)](doc/net_promoter_score.md)
 
 
-### Troubleshooting
+### Quality assurance
 
 * [Five whys (5 whys) root cause analysis](doc/five_whys_root_cause_analysis.md)
 * [Eight disciplines (8Ds) problem solving](doc/eight_disciplines_problem_solving.md)
 * [Ishikawa diagram a.k.a. fishbone diagram](doc/ishikawa_diagram_aka_fishbone_diagram.md)
+* [Failure mode and effects analysis](doc/failure_mode_and_effects_analysis.md)
 
 
 ### Investment
