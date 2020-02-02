@@ -132,6 +132,11 @@
 * [Net Promoter Score (NPS)](doc/net_promoter_score.md)
 
 
+### Meetings
+
+* [Amazon meeting memo](doc/amazon_meeting_memo.md)
+
+
 ### Quality assurance
 
 * [Five whys (5 whys) root cause analysis](doc/five_whys_root_cause_analysis.md)
@@ -148,6 +153,7 @@
 * [Start with a compelling narrative - advice by Atrium.co](doc/start_with_a_compelling_narrative.md)
 * [16 Non-Obvious Fundraising Lessons On Pitching - By NfX](doc/16_non_obvious_fundraising_lessons_on_pitching.md)
 
+
 ### Startup advice
 
 * [Steve Blank startup advice](doc/steve_blank_startup_advice.md)
@@ -155,6 +161,7 @@
 * [The Pocket Guide of Essential YC Advice](doc/the_pocket_guide_of_essential_yc_advice.md)
 * [How to succeed with a startup - By Sam Altman](doc/how_to_succeed_with_a_startup_by_sam_altman.md)
 * [The Top 20 Reasons Startups Fail](doc/the_top_20_reasons_startups_fail.md)
+
 
 ## Books to read
 
