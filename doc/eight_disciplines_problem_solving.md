@@ -2,7 +2,14 @@
 
 https://en.wikipedia.org/wiki/Eight_disciplines_problem_solving
 
-Eight disciplines (8Ds) problem solving is a method developed at Ford Motor Company used to approach and to resolve problems, typically employed by engineers or other professionals. Focused on product and process improvement, its purpose is to identify, correct, and eliminate recurring problems.[1] It establishes a permanent corrective action based on statistical analysis of the problem and on the origin of the problem by determining the root causes. Although it originally comprised eight stages, or 'disciplines', it was later augmented by an initial planning stage. 8D follows the logic of the PDCA cycle. The disciplines are:
+Eight disciplines (8Ds) problem solving is a method to approach and to resolve problems, typically employed by engineers or other professionals. The method is focused on product and process improvement. The purpose is to identify, correct, and eliminate recurring problems. It establishes a permanent corrective action based on statistical analysis of the problem, and on the origin of the problem, by determining the root causes. It follows the logic of the PDCA cycle.
+
+**Benefits**: effective approaches to finding a root cause, developing proper actions to eliminate root causes, and implementing the permanent corrective action. 8D helps to explore the control systems that allowed the problem to escape. The "Escape Point" is studied for the purpose of improving the ability of the Control System to detect the failure or cause when and if it should occur again. The "Prevention Loop" explores the systems that permitted the condition that allowed the Failure and Cause Mechanism to exist in the first place.
+
+**Reference**: The Ford Motor Company 8Ds manual is extensive and covers chapter by chapter how to go about addressing, quantifying, and resolving engineering issues. It begins with a cross-functional team and concludes with a successful demonstrated resolution of the problem.
+
+
+## Disciplines
 
 D0: Preparation and Emergency Response Actions: Plan for solving the problem and determine the prerequisites. Provide emergency response actions.
 
