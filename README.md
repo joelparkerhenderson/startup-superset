@@ -135,6 +135,7 @@
 ### Meetings
 
 * [Amazon meeting memo](doc/amazon_meeting_memo.md)
+* [Writing docs at Amazon](doc/writing_docs_at_amazon.md)
 
 
 ### Quality assurance

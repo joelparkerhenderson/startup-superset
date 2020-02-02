@@ -1,4 +1,4 @@
-# Five whys - root cause analysis
+# Five whys (5 whys) root cause analysis
 
 https://en.wikipedia.org/wiki/Five_whys
 
@@ -11,7 +11,6 @@ The outcome depends upon the knowledge and persistence of the people involved. T
 
 ## Rules
 
-
 Rules:
 * Assess processes, not people; never leave human error as the root cause.
 * Write down all the information; verify that all participants understand.
@@ -23,9 +22,9 @@ Investigation:
 * Try to make answers more precise and also inclusive of more perspectives.
 
 Roles and responsbilities:
-* Voice-of-customer: ensure all steps have the customer perspective.
+* Voice-of-customer: ensure all information has the customer perspective.
 * Facilitator: seek information and participation while being neutral.
-* Investigator: a person who will follow up on any missing information. 
+* Investigator: follow up on any missing information then report back.
 
 Ground rules:
 * Foster trust not blame.
