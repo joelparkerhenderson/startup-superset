@@ -11,13 +11,13 @@ By having to write it all down — as opposed to dashing off quick bullet points
 
 The narrative has four main elements:
 
-1) The context or question
+1) The context or question; the point or the objective.
 
-2) Approaches to answer the question – by whom, by which method, and their conclusions
+2) Approaches to answer the question – by whom, by which method, and their conclusions; how teams have attempted to handle this issue in the past.
 
-3) How is your attempt at answering the question different or the same from previous approaches
+3) How is your attempt at answering the question different or the same from previous approaches?
 
-4) Now what? – that is, what’s in it for the customer, the company, and how does the answer to the question enable innovation on behalf of the customer?
+4) Who cares and now what? What’s in it for the customer and the company? How does the answer to the question enable innovation on behalf of the customer?
 
 
 ## Press release outline example
