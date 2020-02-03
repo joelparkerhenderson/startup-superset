@@ -1,6 +1,6 @@
 # Amazon meeting memo
 
-Amazon meetings begin with everyone reading a six-page memo, for as long as 30 minutes, in total silence. The pages have writing on both sides, so people are reading 12 pages worth of text. Many of the memos contain an internal press release at the beginning of the memo, to provide a high-level understanding the of the product or service or concept that is being proposed and discussed.
+Amazon meetings begin with everyone reading a six-page memo, for as long as 30 minutes, in total silence. The pages have writing on both sides, so people are reading 12 pages worth of text. Many of the memos contain an internal press release at the beginning of the memo, to provide a high-level understanding of the product or service or concept that is being proposed and discussed.
 
 Reading together in the meeting guarantees everyone’s undivided attention to the issues at hand, but the real magic happens before the meeting ever starts. It happens when the author is writing the memo.
 
@@ -32,7 +32,7 @@ The narrative has four main elements:
 
 **Solution**:  Describe how your product solves the problem. Be enthusiastic!
 
-**Spokesperson quotation**: A mativational quotation from a spokesperson in your company.
+**Spokesperson quotation**: A motivational quotation from a spokesperson in your company.
 
 **How to start** : Describe how easy it is for customers to get started using the service.
 
