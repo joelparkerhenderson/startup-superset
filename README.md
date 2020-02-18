@@ -138,6 +138,12 @@
 * [Writing docs at Amazon](doc/writing_docs_at_amazon.md)
 
 
+### Brainstorming
+
+* [Powerful questions - the game plan](doc/powerful_questions_the_game_plan.md)
+* [Powerful questions - how to generate questions](doc/powerful_questions_how_to_generate_questions.md)
+
+
 ### Quality assurance
 
 * [Five whys (5 whys) root cause analysis](doc/five_whys_root_cause_analysis.md)
