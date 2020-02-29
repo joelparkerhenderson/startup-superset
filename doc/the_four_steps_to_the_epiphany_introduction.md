@@ -1,4 +1,4 @@
-# The Four Steps to the Epiphany 
+# The Four Steps to the Epiphany - Introduction
 
 Link: [The Four Steps to the Epiphany - By Steve Blank](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) - excerpted and edited
 

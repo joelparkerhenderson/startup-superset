@@ -79,7 +79,8 @@
 * [Technology adoption life cycle](doc/technology_adoption_life_cycle.md)
 * [Crossing the chasm](doc/crossing_the_chasm.md)
 * [Bold vision](doc/bold_vision.md)
-* [The Four Steps to the Epiphany](doc/the_four_steps_to_the_epiphany.md)
+* [The Four Steps to the Epiphany - Introduction](doc/the_four_steps_to_the_epiphany_introduction.md)
+* [The Four Steps to the Epiphany - Customer Development](doc/the_four_steps_to_the_epiphany_customer_development.md)
 
 
 ### Product development
