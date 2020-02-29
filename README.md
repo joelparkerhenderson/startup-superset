@@ -27,10 +27,15 @@
 
 * [Grit](doc/grit.md)
 * [Effectuation](doc/effectuation.md)
-* [Drucker teamwork exercise](doc/drucker_teamwork_exercise.md)
 * [Crucial conversations](doc/crucial_conversations.md)
 * [6 Guidelines for "Getting to Yes"](doc/6_guidelines_for_getting_to_yes.md)
+
+
+### Teamwork
+
+* [Drucker teamwork exercise](doc/drucker_teamwork_exercise.md)
 * [7 secrets to effective teamwork](doc/7_secrets_to_effective_teamwork.md)
+* [Building a winning team - By Steve Kerr](doc/building_a_winning_team_by_steve_kerr.md)
 
 
 ### Strategy
