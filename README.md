@@ -158,6 +158,11 @@
 * [Failure mode and effects analysis](doc/failure_mode_and_effects_analysis.md)
 
 
+### Sales
+
+* [The Greatest Sales Deck I've Ever Seen - By Andy Raskin](doc/the_greatest_sales_deck_ive_ever_seen.md)
+
+
 ### Investment
 
 * [7 startup questions by Peter Thiel](doc/7_startup_questions_by_peter_thiel.md)
