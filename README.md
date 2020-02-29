@@ -54,6 +54,13 @@
 * [Five forces analysis: entrants, substitutes, customers, suppliers, competitors](doc/five_forces_analysis.md)
 
 
+### Business model canvas
+
+* [Business model canvas](doc/business_model_canvas.md)
+* [Business model canvas - examples](doc/business_model_canvas_worksheet.md)
+* [Business model - examples](doc/business_model_examples.md)
+
+
 ### Tactics
 
 * [Agoge and The Gates of Fire](doc/agoge_and_the_gates_of_fire.md)
@@ -67,10 +74,11 @@
 
 * [Objectives and key results (OKR)](doc/objectives_and_key_results.md)
 * [Objectives and key results (OKR) - templates by SixArm.com](objectives_and_key_results_templates_by_sixarm.md)
+* [Objectives and key results (OKR) - examples by Attim](doc/objectives_and_key_results_examples_by_attim.md)
 * [Key performance indicator (KPI)](doc/key_performance_indicator.md)
 * [Key performance indicator (KPI) - examples](doc/key_performance_indicator_examples.md)
 * [Key risk indicator (KRI)](doc/key_risk_indicator.md)
-
+* [Key risk indicator (KRI) - examples by Deloitte](doc/key_risk_indicator_examples_by_deloitte.md)
 
 ### Markets
 
