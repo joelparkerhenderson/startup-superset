@@ -11,11 +11,11 @@ The customer development model encourages that more time be spent in the field i
 
 The founders must “get out of the building” and answer three questions about the business:
 
-  * Do we really understand the customer’s problem or need?
+  * Do we really understand the customer’s problem a.k.a. need?
 
-  * Do enough people care about the problem or need to deliver a huge business?
+  * Do enough people care enough about the problem a.k.a. need, in order to create a huge business?
 
-  * Will they care enough to tell their friends and grow the business quickly[4][25]
+  * Will enough people care enough to tell their friends, in order to grow the business quickly?
 
 
 ## The four-step process
