@@ -233,19 +233,12 @@ As a handy helper, when you consider any entry below that says "View", also cons
 * Be a sustaining member
 * Volunteer for a task
 * Take a virtual tour
-* Download a template
 * Chat with a volunteer
-* Share with friends
 * Submit a review
 * Complete a survey
 * Schedule a test
 * Complete a virtual course
 * Purchase a raffle ticket
-* Share an article
-* Save contact information
-* Create a public profile
-* Pin a blog post
-* Read patient reviews
 
 ## Healthcare
 
