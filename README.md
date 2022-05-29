@@ -80,6 +80,7 @@
 * [Key risk indicator (KRI)](doc/key-risk-indicator.md)
 * [Key risk indicator (KRI) - examples by Deloitte](doc/key-risk-indicator-examples-by-deloitte.md)
 
+
 ### Markets
 
 * [Understand the small idea and the big idea](doc/understand-the-small-idea-and-the-big-idea.md)
