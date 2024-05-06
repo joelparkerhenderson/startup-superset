@@ -18,17 +18,17 @@ Maturity model levels are typically a series of steps of sophistication such as:
 
 General maturity models:
 
-  * [U.S. N.I.H. Proficiency Scale](https://github.com/joelparkerhenderson/maturity_models/examples/skill/us_nih_proficiency_scale.md)
+  * [U.S. N.I.H. Proficiency Scale](https://github.com/joelparkerhenderson/maturity_models/examples/skill/us_nih_proficiency_scale/)
 
-  * [Dreyfus model of skill acquisition](https://github.com/joelparkerhenderson/examples/skill/dreyfus_model_of_skill_acquisition.md)
+  * [Dreyfus model of skill acquisition](https://github.com/joelparkerhenderson/examples/skill/dreyfus_model_of_skill_acquisition/)
 
-  * [Enterprise Architecture: TOGAF Maturity Model](https://github.com/joelparkerhenderson/examples/software/enterprise_architecture/togaf_maturity_model.md)
+  * [Enterprise Architecture: TOGAF Maturity Model](https://github.com/joelparkerhenderson/examples/software/enterprise_architecture/togaf_maturity_model/)
 
-  * [IT Capability Maturity Framework by the Innovation Value Institute (IVI)](https://github.com/joelparkerhenderson/examples/it/it_capability_maturity_framework_by_innovation_value_institute.md)
+  * [IT Capability Maturity Framework by the Innovation Value Institute (IVI)](https://github.com/joelparkerhenderson/examples/it/it_capability_maturity_framework_by_innovation_value_institute/)
 
-  * [Enterprise Information Management Maturity Model by Gartner](https://github.com/joelparkerhenderson/examples/eim/Gartner_EIM_Maturity_Model.md)
+  * [Enterprise Information Management Maturity Model by Gartner](https://github.com/joelparkerhenderson/examples/eim/Gartner_EIM_Maturity_Model/)
 
-  * [Agile Maturity Model by ThoughtWorks](https://github.com/joelparkerhenderson/examples/agile/agile_maturity_model_by_thoughtworks.md)
+  * [Agile Maturity Model by ThoughtWorks](https://github.com/joelparkerhenderson/examples/agile/agile_maturity_model_by_thoughtworks/)
 
 P3M3® describes process perspectives that can be assessed at all maturity model levels:
 
